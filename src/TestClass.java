@@ -5,6 +5,7 @@ public class TestClass {
 		System.out.println("Git'ten Merhaba");
 		System.out.println("Yerden Merhaba");
 		System.out.println("Github'tan Merhaba");
+		System.out.println("Cakisma olabilir");
 	}
 
 }
